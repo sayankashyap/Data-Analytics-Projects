@@ -1,7 +1,7 @@
 # Data Analytics Projects
 
 ## Overview
-This is my **data analytics project**, where I analyze insights using tools like **Excel**, **SQL**, **Power BI**, and **Tableau**. The project focuses on transforming raw data into actionable insights for data-driven decision-making.
+This is my **data analytics projects**, where I analyze insights using tools like **Excel**, **SQL**, **Power BI**, and **Tableau**. The project focuses on transforming raw data into actionable insights for data-driven decision-making.
 
 ## Tools & Technologies Used
 - **Excel**: For data cleaning, basic analysis, and visualizations.
